@@ -1,0 +1,25 @@
+first_name,last_name,email,group,joined_on,consent
+Ayesha,Khan,ayesha.khan@example.com,car-owners,2026-09-14,shop sign-up
+Bilal,Ahmed,bilal.ahmed@example.com,car-owners,2026-09-18,shop sign-up
+Sana,Malik,sana.malik@example.com,car-owners,2026-09-25,shop sign-up
+Hamza,Qureshi,hamza.qureshi@example.com,car-owners,2026-10-02,shop sign-up
+Fatima,Siddiqui,fatima.siddiqui@example.com,car-owners,2026-10-09,shop sign-up
+Usman,Shaikh,usman.shaikh@example.com,car-owners,2026-10-16,shop sign-up
+Zain,Abbasi,zain.abbasi@example.com,suv-owners,2026-09-16,shop sign-up
+Mariam,Hussain,mariam.hussain@example.com,suv-owners,2026-09-29,shop sign-up
+Faisal,Memon,faisal.memon@example.com,suv-owners,2026-10-05,shop sign-up
+Hira,Baig,hira.baig@example.com,suv-owners,2026-10-13,shop sign-up
+Omar,Farooq,omar.farooq@example.com,suv-owners,2026-10-21,shop sign-up
+Tom,Becker,tom.becker@example.com,corporate-fleet,2026-09-22,corporate opt-in
+Nadia,Raza,nadia.raza@example.com,corporate-fleet,2026-09-30,corporate opt-in
+Kamran,Javed,kamran.javed@example.com,corporate-fleet,2026-10-07,corporate opt-in
+Sadia,Iqbal,sadia.iqbal@example.com,corporate-fleet,2026-10-14,corporate opt-in
+Adnan,Chaudhry,adnan.chaudhry@example.com,corporate-fleet,2026-10-22,corporate opt-in
+Imran,Butt,imran.butt@example.com,corporate-trucks,2026-09-17,corporate opt-in
+Rabia,Mirza,rabia.mirza@example.com,corporate-trucks,2026-10-01,corporate opt-in
+Tariq,Hashmi,tariq.hashmi@example.com,corporate-trucks,2026-10-12,corporate opt-in
+Erik,Lindqvist,erik.lindqvist@example.com,corporate-trucks,2026-10-23,corporate opt-in
+Asad,Rehman,asad.rehman@example.com,corporate-lifters,2026-09-21,corporate opt-in
+Mehwish,Ansari,mehwish.ansari@example.com,corporate-lifters,2026-10-03,corporate opt-in
+Shahid,Lodhi,shahid.lodhi@example.com,corporate-lifters,2026-10-15,corporate opt-in
+Zara,Naqvi,zara.naqvi@example.com,corporate-lifters,2026-10-26,corporate opt-in
