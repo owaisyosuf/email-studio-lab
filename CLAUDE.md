@@ -2,7 +2,7 @@
 
 This studio is where we plan and write email campaigns for a small business: **Baber Tyres Corporation**, a tyre importer and dealer on M.A. Jinnah Road, Karachi (website: https://baber-tyres-website.vercel.app/).
 
-The current campaign announces the launch of the website's online tyre size finder. Customers find their size on the site, then order on WhatsApp (0317-4724400) or by phone. There is no online checkout, so every email points people to WhatsApp or a call.
+The current campaign is **Send Us Your Size** (`campaigns/send-us-your-size/`). Car and SUV owners send their tyre size, and corporate clients ask for a quotation, on WhatsApp (0317-4724400) or by phone. Every email points people to WhatsApp or a call.
 
 ## Folders
 
@@ -16,6 +16,7 @@ The current campaign announces the launch of the website's online tyre size find
 - Write in plain English.
 - Never send email to real people. Practice leads use `@example.com` addresses only.
 - Never invent prices, discounts or stock that the business has not confirmed.
+- Don't link to or mention the website in emails. Its data is not complete yet, and it shows retail prices that are not right for corporate clients.
 - Ask me before deleting anything.
 
 ## Brand voice
