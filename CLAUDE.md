@@ -29,6 +29,8 @@ Owais Yousuf confirmed these on 3 November 2026. Emails may state them. Don't ad
 
 - Write in plain English.
 - Never send email to real people. Practice leads use `@example.com` addresses only.
+  - Sending through Resend is allowed only to Resend's test addresses (ending in `@resend.dev`) and to my own email address (the `MY_EMAIL` value in `.claude/settings.local.json`). Every address in to, cc and bcc must follow this.
+  - A send guard (a hook) will enforce this from the next step onward and block any other address.
 - Never invent prices, discounts or stock that the business has not confirmed.
 - Don't link to or mention the website in emails. Its data is not complete yet, and it shows retail prices that are not right for corporate clients.
 - Ask me before deleting anything.
