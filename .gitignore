@@ -1,2 +1,10 @@
 # Assignment guide (course material, kept out of the public repo)
 Email Studio Lab Assignment FDE-102 (Copy).md
+
+# Personal Claude Code settings (never shared)
+.claude/settings.local.json
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
