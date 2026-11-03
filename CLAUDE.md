@@ -17,3 +17,7 @@ The current campaign announces the launch of the website's online tyre size find
 - Never send email to real people. Practice leads use `@example.com` addresses only.
 - Never invent prices, discounts or stock that the business has not confirmed.
 - Ask me before deleting anything.
+
+## Brand voice
+
+@brand/voice.md
