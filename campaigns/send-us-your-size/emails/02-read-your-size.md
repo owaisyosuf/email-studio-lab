@@ -5,12 +5,11 @@ Hi {{first_name}},
 
 Not sure what size your tyres are? You don't need to guess. The size is printed on the side of every tyre.
 
-**Reading a car or SUV tyre: 195/65 R15 91H**
+**Reading a car or SUV tyre: 195/65 R15**
 
 - **195**: the width of the tyre, in millimetres.
 - **65**: the height of the side wall, as a percentage of the width.
 - **R15**: a radial tyre for a 15-inch rim.
-- **91H**: the load and speed rating. Send it too if you can see it.
 
 **Trucks and lifters** use different formats, for example **11R22.5** for a truck or **7.00-12** for a forklift. Just send it to us exactly as it's printed.
 
