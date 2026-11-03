@@ -5,17 +5,17 @@ Hi {{first_name}},
 
 If new tyres are on your list for the new year, now is a good time to send us your size.
 
-It only takes a minute:
+Here's all you need to do:
 
 1. **Find your size** on the side of your tyre.
 2. **Send it to us on WhatsApp.**
-3. **We confirm the details with you**, then fit your tyres at our shop or arrange delivery across Karachi.
+3. **We confirm the details with you**, then fit your tyres at our shop or arrange delivery across Karachi (charges confirmed on WhatsApp).
 
-**Planning for your company?** Send us your sizes and quantities for cars, trucks or lifters now, and your quotation can be ready for the new year.
+**Planning for your company?** Send us your sizes and quantities for cars, trucks or lifters now, and we'll prepare your quotation.
 
 [Send us your size on WhatsApp](https://wa.me/923174724400?text=Hi%20Baber%20Tyres%20Corporation%20%28ref%20E4%29.%20My%20tyre%20size%20is%20)
 
-Thank you for staying in touch with us this year. We look forward to helping you in the next.
+Thank you for reading our emails this month. We look forward to helping you in the new year.
 
 Owais Yousuf
 Baber Tyres Corporation

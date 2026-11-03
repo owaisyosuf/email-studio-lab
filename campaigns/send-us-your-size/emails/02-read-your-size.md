@@ -14,9 +14,9 @@ Not sure what size your tyres are? You don't need to guess. The size is printed 
 
 **Trucks and lifters** use different formats, for example **11R22.5** for a truck or **7.00-12** for a forklift. Just send it to us exactly as it's printed.
 
-**Buying for a fleet?** Send everything in one message, with the size and how many you need, for example "195/65 R15 x 12, 11R22.5 x 6". We'll prepare one quotation for the lot.
+**Buying for a fleet?** Send everything in one message, with the size and how many you need, for example "195/65 R15 x 12, 11R22.5 x 6". We'll prepare one quotation for everything.
 
-Still not sure? Message or call us and we'll guide you.
+Still not sure? Message us, or call us on 0317-4724400, and we'll guide you.
 
 [Send us your size on WhatsApp](https://wa.me/923174724400?text=Hi%20Baber%20Tyres%20Corporation%20%28ref%20E2%29.%20My%20tyre%20size%20is%20)
 

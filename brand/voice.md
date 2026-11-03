@@ -21,12 +21,13 @@ We speak the same way everywhere: in the shop, on WhatsApp and in email. The cor
 
 - original
 - genuine
-- legally imported
+- legally imported (only about the brands we import, never about all our tyres)
 - "brands we import" (Yokohama, Rapid, Michelin, Duhow)
 - "brands we deal in" (Dunlop, General, Armstrong)
 - "send us your tyre size"
 - "message us on WhatsApp" / "call us"
 - quotation (for corporate clients)
+- tyre, not tire (British spelling), but "computerized wheel alignment" and "computerized wheel balancing", because those are our service names
 
 ## 3. Words we avoid
 
