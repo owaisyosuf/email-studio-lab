@@ -4,6 +4,20 @@ This studio is where we plan and write email campaigns for a small business: **B
 
 The current campaign is **Send Us Your Size** (`campaigns/send-us-your-size/`). Car and SUV owners send their tyre size, and corporate clients ask for a quotation, on WhatsApp (0317-4724400) or by phone. Every email points people to WhatsApp or a call.
 
+## Confirmed business facts
+
+Owais Yousuf confirmed these on 3 November 2026. Emails may state them. Don't add any other business facts unless they are confirmed.
+
+- **Shop:** M.A. Jinnah Road, Karachi.
+- **Hours:** Monday to Saturday, 10 AM to 7 PM. Sunday closed. Closed on Friday 25 December 2026 (Quaid-e-Azam Day).
+- **Contact:** WhatsApp or call 0317-4724400.
+- **Delivery:** available across Karachi. Charges apply and are confirmed on WhatsApp.
+- **Services at the shop:** tyre fitting, computerized wheel alignment, computerized wheel balancing.
+- **Brands we import:** Yokohama, Rapid, Michelin, Duhow.
+- **Brands we deal in:** Dunlop, General, Armstrong.
+- **Tyre types:** car, SUV / 4x4, truck / commercial, lifter / forklift, off-road.
+- **Corporate clients:** we supply multinationals, banks, beverage and logistics companies (never name them).
+
 ## Folders
 
 - `brand/` – how Baber Tyres sounds: the brand voice guide.

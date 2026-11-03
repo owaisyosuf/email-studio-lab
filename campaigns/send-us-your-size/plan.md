@@ -78,7 +78,7 @@ About 2,000 people are on our list, in five groups:
 | Before | by Fri 4 Dec | Set up the pre-filled WhatsApp links. Prepare reply templates for size questions and quotation requests. | – | Must be done before email 1. | To do |
 | 1 | Mon 7 Dec | **Email 1: "Send us your size on WhatsApp"**. Introduce Baber Tyres and the 3 steps: find your size, message us, fitting or delivery. Corporate version: send your requirements for a quotation. | All 5 | The most important send. | To do |
 | 2 | Mon 14 Dec | **Email 2: "How to read your tyre size"**. Where to find the size on the side of your tyre and what the numbers mean. Corporate version: how to send sizes and quantities for a whole fleet in one message. | All 5 | Helps people who don't know their size. | To do |
-| 3 | Mon 21 Dec | **Email 3: "Genuine tyres, and who you're buying from"**. Brands we import vs brands we deal in, plus fitting, alignment and balancing. | All 5 | Builds trust. Fri 25 Dec is a public holiday (Quaid-e-Azam Day). Confirm whether the shop is open and mention the hours. | To do |
+| 3 | Mon 21 Dec | **Email 3: "Genuine tyres, and who you're buying from"**. Brands we import vs brands we deal in, plus fitting, alignment and balancing. | All 5 | Builds trust. The shop is closed on Fri 25 Dec (Quaid-e-Azam Day), so this email says so. | To do |
 | 4 | Mon 28 Dec | **Email 4: "Send us your size before the new year"**. A last reminder. Corporate version: send your requirements so the quotation is ready for the new year. | Only people who haven't messaged us yet | No fake urgency, discounts or stock claims. | To do |
 | After | Mon 4 Jan | Count the results and write a short report. | – | – | To do |
 
@@ -144,12 +144,12 @@ The budget is small and the campaign is email only, so nothing is spent on media
 | People search for us online and find the website | Corporate clients may see incomplete data or retail prices. | The emails never link to the website. Corporate replies get a proper quotation on WhatsApp. Finish the website before it gets its own campaign. |
 | Too many WhatsApp messages at once | Slow replies after email 1 lose customers. | Send email 1 on Monday morning, use the reply templates, and have extra staff ready in week 1. |
 | One message for very different groups | Car owners and forklift buyers need different things. | Write a version per group: guiding for car and SUV owners, quotation-focused for corporate. |
-| Holiday week | Fri 25 Dec is a public holiday, and people are busy at year end. | Email 3 mentions the shop hours. Email 4 focuses corporate on getting quotations ready for the new year. |
+| Holiday week | The shop is closed on Fri 25 Dec (Quaid-e-Azam Day), and people are busy at year end. | Email 3 tells people the shop is closed on 25 December and gives the normal hours. Email 4 focuses corporate on getting quotations ready for the new year. |
 
 ## 10. Next steps
 
 1. Create the pre-filled WhatsApp links and the reply templates.
-2. Confirm the shop hours for Fri 25 Dec.
+2. Tell customers in email 3 that the shop is closed on Fri 25 Dec.
 3. Build the practice lead list (`leads/leads.csv`) with all five groups.
 4. Write the 4 emails in `campaigns/send-us-your-size/emails/`, then a version per group in `groups/`.
 5. Owais Yousuf approves every email before it is sent.
