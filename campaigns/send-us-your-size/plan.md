@@ -47,7 +47,7 @@ About 2,000 people are on our list, in five groups:
 
 | Message | Proof point |
 |---|---|
-| **It's easy.** Your size is printed on the side of your tyre. Send it to us, or send a photo of it. | Email 2 shows where to find it. |
+| **It's easy.** Your size is printed on the side of your tyre. Just send it to us. | Email 2 shows where to find it. |
 | **Genuine and legally imported.** | We import Yokohama, Rapid, Michelin and Duhow ourselves, and we deal in Dunlop, General and Armstrong. We always tell you which is which, so you know who you are buying from. |
 | **We confirm everything with you directly.** No guesswork. | We tell you what we have. If we don't have it, we say so. |
 | **We can finish the job.** | Fitting, computerized alignment and computerized balancing at our shop on M.A. Jinnah Road. Delivery across Karachi is available, with charges confirmed on WhatsApp. |
@@ -77,7 +77,7 @@ About 2,000 people are on our list, in five groups:
 |---|---|---|---|---|---|
 | Before | by Fri 4 Dec | Set up the pre-filled WhatsApp links. Prepare reply templates for size questions and quotation requests. | – | Must be done before email 1. | To do |
 | 1 | Mon 7 Dec | **Email 1: "Send us your size on WhatsApp"**. Introduce Baber Tyres and the 3 steps: find your size, message us, fitting or delivery. Corporate version: send your requirements for a quotation. | All 5 | The most important send. | To do |
-| 2 | Mon 14 Dec | **Email 2: "How to read your tyre size"**. Where to find the size on the side of your tyre and what the numbers mean, or just send a photo. Corporate version: how to send sizes and quantities for a whole fleet in one message. | All 5 | Helps people who don't know their size. | To do |
+| 2 | Mon 14 Dec | **Email 2: "How to read your tyre size"**. Where to find the size on the side of your tyre and what the numbers mean. Corporate version: how to send sizes and quantities for a whole fleet in one message. | All 5 | Helps people who don't know their size. | To do |
 | 3 | Mon 21 Dec | **Email 3: "Genuine tyres, and who you're buying from"**. Brands we import vs brands we deal in, plus fitting, alignment and balancing. | All 5 | Builds trust. Fri 25 Dec is a public holiday (Quaid-e-Azam Day). Confirm whether the shop is open and mention the hours. | To do |
 | 4 | Mon 28 Dec | **Email 4: "Send us your size before the new year"**. A last reminder. Corporate version: send your requirements so the quotation is ready for the new year. | Only people who haven't messaged us yet | No fake urgency, discounts or stock claims. | To do |
 | After | Mon 4 Jan | Count the results and write a short report. | – | – | To do |
@@ -140,7 +140,7 @@ The budget is small and the campaign is email only, so nothing is spent on media
 
 | Risk | What could happen | Mitigation |
 |---|---|---|
-| People don't know their tyre size | They don't message us at all. | Email 2 shows where the size is printed, and every email says "or just send a photo of your tyre". |
+| People don't know their tyre size | They don't message us at all. | Email 2 shows where the size is printed and what the numbers mean. Every email also says: "Not sure of your size? Message or call us and we'll guide you." |
 | People search for us online and find the website | Corporate clients may see incomplete data or retail prices. | The emails never link to the website. Corporate replies get a proper quotation on WhatsApp. Finish the website before it gets its own campaign. |
 | Too many WhatsApp messages at once | Slow replies after email 1 lose customers. | Send email 1 on Monday morning, use the reply templates, and have extra staff ready in week 1. |
 | One message for very different groups | Car owners and forklift buyers need different things. | Write a version per group: guiding for car and SUV owners, quotation-focused for corporate. |

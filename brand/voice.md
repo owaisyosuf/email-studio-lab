@@ -6,8 +6,8 @@ We speak the same way everywhere: in the shop, on WhatsApp and in email. The cor
 
 | Audience | How we write |
 |---|---|
-| **Car owners in Karachi** | Friendly and guiding. Explain things step by step (how to find your size, what happens next). Many car owners need help choosing, and they like to talk price, so invite them to message us on WhatsApp. |
-| **Corporate clients** (multinationals, banks, beverage and logistics companies) | Professional and to the point. They usually ask for a quotation and approve it. Keep emails short, clear and easy to act on. |
+| **Car and SUV / 4x4 owners in Karachi** | Friendly and guiding. Explain things step by step (how to find your size, what happens next). Many car and SUV owners need help choosing, and they like to talk price, so invite them to message us on WhatsApp. |
+| **Corporate clients** (multinationals, banks, beverage and logistics companies) running car fleets, trucks and commercial vehicles, or lifters / forklifts | Professional and to the point. They usually ask for a quotation and approve it. Keep emails short, clear and easy to act on. |
 
 ## 1. Our voice in three words
 

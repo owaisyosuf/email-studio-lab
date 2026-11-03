@@ -1,6 +1,6 @@
 # Baber Tyres Email Studio
 
-This studio is where we plan and write email campaigns for a small business: **Baber Tyres Corporation**, a tyre importer and dealer on M.A. Jinnah Road, Karachi (website: https://baber-tyres-website.vercel.app/).
+This studio is where we plan and write email campaigns for a small business: **Baber Tyres Corporation**, a tyre importer and dealer on M.A. Jinnah Road, Karachi. The business has a website, but it is not used in emails yet.
 
 The current campaign is **Send Us Your Size** (`campaigns/send-us-your-size/`). Car and SUV owners send their tyre size, and corporate clients ask for a quotation, on WhatsApp (0317-4724400) or by phone. Every email points people to WhatsApp or a call.
 
