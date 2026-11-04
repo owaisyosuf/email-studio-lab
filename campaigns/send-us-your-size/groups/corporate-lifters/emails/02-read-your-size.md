@@ -5,13 +5,12 @@ Hi {{first_name}},
 
 Not sure what tyre sizes your forklifts use? You don't need to guess. The size is printed on the side of every tyre.
 
-**Reading a car or SUV tyre: 195/65 R15**
+**Reading a forklift tyre: 7.00-12**
 
-- **195**: the width of the tyre, in millimetres.
-- **65**: the height of the side wall, as a percentage of the width.
-- **R15**: a radial tyre for a 15-inch rim.
+- **7.00**: the width of the tyre, in inches.
+- **12**: the rim size, in inches.
 
-**Trucks and lifters** use different formats, for example **11R22.5** for a truck or **7.00-12** for a forklift. Just send it to us exactly as it's printed.
+Some forklift tyres use other formats, such as 28x9-15. Just send it to us exactly as it's printed.
 
 **Buying for a fleet?** Send everything in one message, with the size and how many you need, for example "7.00-12 x 8, 6.50-10 x 4". We'll prepare one quotation for everything.
 

@@ -1,81 +1,81 @@
 {
   "findings": [
     {
-      "file": "campaigns/send-us-your-size/emails/01-send-us-your-size.md",
-      "line": 1,
-      "severity": "high",
-      "problem": "Subject 'Yokohama, Michelin, Dunlop and more: send us your size' is 54 characters. The rule allows 50 or fewer.",
-      "fix": "Shorten it, e.g. 'Yokohama, Michelin and more: send us your size' (46) or 'Yokohama, Dunlop and more: send us your size' (44). Update the matching subject in sequence.md too."
-    },
-    {
-      "file": "campaigns/send-us-your-size/groups/car-owners/emails/01-send-us-your-size.md",
-      "line": 1,
-      "severity": "high",
-      "problem": "Subject 'Yokohama, Michelin, Dunlop and more: send us your size' is 54 characters. The rule allows 50 or fewer.",
-      "fix": "Use the same shortened subject as the base Email 1, e.g. 'Yokohama, Michelin and more: send us your size' (46)."
-    },
-    {
-      "file": "campaigns/send-us-your-size/groups/suv-owners/emails/01-send-us-your-size.md",
-      "line": 1,
-      "severity": "high",
-      "problem": "Subject 'Yokohama, Michelin, Dunlop and more: send us your size' is 54 characters. The rule allows 50 or fewer.",
-      "fix": "Use the same shortened subject as the base Email 1, e.g. 'Yokohama, Michelin and more: send us your size' (46)."
-    },
-    {
-      "file": "campaigns/send-us-your-size/groups/corporate-fleet/emails/01-send-us-your-size.md",
-      "line": 1,
-      "severity": "high",
-      "problem": "Subject 'Need a tyre quotation? Send us your sizes on WhatsApp' is 53 characters. The rule allows 50 or fewer.",
-      "fix": "Shorten it, e.g. 'Need a tyre quotation? Send us your sizes' (41) or 'Tyre quotation? Send us your sizes on WhatsApp' (46)."
-    },
-    {
-      "file": "campaigns/send-us-your-size/groups/corporate-trucks/emails/01-send-us-your-size.md",
-      "line": 1,
-      "severity": "high",
-      "problem": "Subject 'Need a tyre quotation? Send us your sizes on WhatsApp' is 53 characters. The rule allows 50 or fewer.",
-      "fix": "Shorten it, e.g. 'Need a tyre quotation? Send us your sizes' (41)."
-    },
-    {
-      "file": "campaigns/send-us-your-size/groups/corporate-lifters/emails/01-send-us-your-size.md",
-      "line": 1,
-      "severity": "high",
-      "problem": "Subject 'Need a tyre quotation? Send us your sizes on WhatsApp' is 53 characters. The rule allows 50 or fewer.",
-      "fix": "Shorten it, e.g. 'Need a tyre quotation? Send us your sizes' (41)."
-    },
-    {
-      "file": "campaigns/send-us-your-size/groups/corporate-trucks/emails/02-read-your-size.md",
-      "line": 8,
-      "severity": "medium",
-      "problem": "The truck version explains how to read a car or SUV tyre (195/65 R15). That doesn't help a truck fleet, and the voice guide says corporate emails should be short and to the point.",
-      "fix": "Replace lines 8-12 with a short note on reading a truck size like 11R22.5, or remove the car/SUV block and keep the 'send it exactly as it's printed' line."
-    },
-    {
-      "file": "campaigns/send-us-your-size/groups/corporate-lifters/emails/02-read-your-size.md",
-      "line": 8,
-      "severity": "medium",
-      "problem": "The forklift version explains how to read a car or SUV tyre (195/65 R15). That doesn't help forklift buyers, and the voice guide says corporate emails should be short and to the point.",
-      "fix": "Replace lines 8-12 with a short note on reading a forklift size like 7.00-12, or remove the car/SUV block and keep the 'send it exactly as it's printed' line."
-    },
-    {
       "file": "campaigns/send-us-your-size/groups/corporate-fleet/emails/01-send-us-your-size.md",
       "line": 14,
-      "severity": "low",
-      "problem": "'Buying for a company?' is left over from the base email. This version already goes to company buyers, so the paragraph repeats itself and makes a corporate email longer than it needs to be.",
-      "fix": "Drop the 'Buying for a company?' question and keep one sentence: 'We already supply multinationals, banks, beverage and logistics companies.'"
-    },
-    {
-      "file": "campaigns/send-us-your-size/groups/corporate-trucks/emails/01-send-us-your-size.md",
-      "line": 14,
-      "severity": "low",
-      "problem": "'Buying for a company?' is left over from the base email. This version already goes to company buyers, so the paragraph repeats itself and makes a corporate email longer than it needs to be.",
-      "fix": "Drop the question and keep: 'We already supply multinationals, banks, beverage and logistics companies.'"
+      "severity": "medium",
+      "problem": "Corporate version still carries the base email's 'Buying for a company?' block, asking a corporate reader if they are buying for a company. Line 6 also uses consumer copy ('we'll tell you what we have... no going from shop to shop'). The voice guide says corporate emails should be professional, short and to the point.",
+      "fix": "Delete the 'Buying for a company?' paragraph and keep only the trust line ('We already supply multinationals, banks, beverage and logistics companies.'). Rewrite line 6 around a quotation, for example: 'Send us your fleet's tyre sizes and quantities on WhatsApp, and we'll prepare a quotation.'"
     },
     {
       "file": "campaigns/send-us-your-size/groups/corporate-lifters/emails/01-send-us-your-size.md",
       "line": 14,
+      "severity": "medium",
+      "problem": "The redundant 'Buying for a company?' block goes to a corporate lifter buyer and lists 'car fleet, trucks or lifters', which does not fit this group. Line 6 uses consumer copy instead of a quotation-led opening.",
+      "fix": "Remove the paragraph and keep a short trust line. Rewrite line 6 to ask for forklift tyre sizes and quantities for a quotation."
+    },
+    {
+      "file": "campaigns/send-us-your-size/groups/corporate-trucks/emails/01-send-us-your-size.md",
+      "line": 14,
+      "severity": "medium",
+      "problem": "The redundant 'Buying for a company?' block goes to a corporate truck buyer and mentions car fleets and lifters, which do not apply here. Line 6 uses consumer copy instead of a quotation-led opening.",
+      "fix": "Remove the paragraph and keep a short trust line. Rewrite line 6 to ask for truck tyre sizes and quantities for a quotation."
+    },
+    {
+      "file": "campaigns/send-us-your-size/groups/corporate-lifters/emails/03-genuine-tyres.md",
+      "line": 17,
+      "severity": "medium",
+      "problem": "Offers computerized wheel alignment 'so your vehicle tracks straight' to forklift buyers. The confirmed services do not say alignment is available for forklifts, so this may promise a service the business has not confirmed for this vehicle type.",
+      "fix": "Confirm with Owais which services apply to forklifts. Until then, keep only 'Tyre fitting' in this version, or say 'ask us on WhatsApp which services suit your forklifts'."
+    },
+    {
+      "file": "campaigns/send-us-your-size/groups/corporate-trucks/emails/03-genuine-tyres.md",
+      "line": 17,
       "severity": "low",
-      "problem": "'Buying for a company?' is left over from the base email. This version already goes to company buyers, so the paragraph repeats itself and makes a corporate email longer than it needs to be.",
-      "fix": "Drop the question and keep: 'We already supply multinationals, banks, beverage and logistics companies.'"
+      "problem": "Offers computerized wheel alignment and balancing to truck fleets. The confirmed services list does not say these are available for trucks and commercial vehicles.",
+      "fix": "Confirm truck alignment and balancing with Owais, or soften the line to 'ask us on WhatsApp which services suit your trucks'."
+    },
+    {
+      "file": "campaigns/send-us-your-size/groups/corporate-fleet/emails/04-before-new-year.md",
+      "line": 14,
+      "severity": "low",
+      "problem": "Asks a corporate reader 'Planning for your company?' and lists cars, trucks or lifters. The subject and preview (lines 1-2: 'Send us your size', 'Still need tyres?') are written for car owners and don't mention a quotation, unlike corporate E1-E3.",
+      "fix": "Drop the 'Planning for your company?' line and fold the quotation ask into the opening. Use a quotation-focused subject and preview, for example 'Plan your fleet's tyres before the new year' and 'Send sizes and quantities, and we'll prepare your quotation.'"
+    },
+    {
+      "file": "campaigns/send-us-your-size/groups/corporate-lifters/emails/04-before-new-year.md",
+      "line": 14,
+      "severity": "low",
+      "problem": "Asks a corporate lifter buyer 'Planning for your company?' and lists cars, trucks or lifters. The subject and preview are written for car owners and don't mention a quotation.",
+      "fix": "Remove the line, make the opening ask for forklift sizes and quantities for a quotation, and use a quotation-focused subject and preview."
+    },
+    {
+      "file": "campaigns/send-us-your-size/groups/corporate-trucks/emails/04-before-new-year.md",
+      "line": 14,
+      "severity": "low",
+      "problem": "Asks a corporate truck buyer 'Planning for your company?' and lists cars and lifters. The subject and preview are written for car owners and don't mention a quotation.",
+      "fix": "Remove the line, make the opening ask for truck sizes and quantities for a quotation, and use a quotation-focused subject and preview."
+    },
+    {
+      "file": "campaigns/send-us-your-size/groups/corporate-lifters/emails/01-send-us-your-size.md",
+      "line": 12,
+      "severity": "low",
+      "problem": "Step 3 tells forklift buyers to 'Bring your vehicle to our shop on M.A. Jinnah Road for fitting'. Warehouse forklifts are not driven across Karachi, so this step does not fit and makes the email less helpful.",
+      "fix": "Lead with delivery: 'We arrange delivery across Karachi (charges confirmed on WhatsApp), or you can bring the tyres or vehicle to our shop for fitting.'"
+    },
+    {
+      "file": "campaigns/send-us-your-size/groups/car-owners/emails/02-read-your-size.md",
+      "line": 14,
+      "severity": "low",
+      "problem": "The car-owner version still includes the truck and forklift size formats and the fleet quotation paragraph (lines 14-16), which don't apply to this group and make the step-by-step guide longer.",
+      "fix": "Remove the 'Trucks and lifters' and 'Buying for a fleet?' paragraphs from the car-owner version, or replace them with a car example such as 185/65 R14."
+    },
+    {
+      "file": "campaigns/send-us-your-size/groups/suv-owners/emails/02-read-your-size.md",
+      "line": 14,
+      "severity": "low",
+      "problem": "The SUV version still includes the truck and forklift size formats and a fleet example using car and truck sizes (lines 14-16), which don't apply to SUV and 4x4 owners.",
+      "fix": "Remove these two paragraphs, or replace them with an SUV or off-road example."
     }
   ]
 }

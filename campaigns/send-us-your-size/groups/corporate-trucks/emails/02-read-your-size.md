@@ -5,13 +5,13 @@ Hi {{first_name}},
 
 Not sure what tyre sizes your trucks use? You don't need to guess. The size is printed on the side of every tyre.
 
-**Reading a car or SUV tyre: 195/65 R15**
+**Reading a truck tyre: 11R22.5**
 
-- **195**: the width of the tyre, in millimetres.
-- **65**: the height of the side wall, as a percentage of the width.
-- **R15**: a radial tyre for a 15-inch rim.
+- **11**: the width of the tyre, in inches.
+- **R**: a radial tyre.
+- **22.5**: the rim size, in inches.
 
-**Trucks and lifters** use different formats, for example **11R22.5** for a truck or **7.00-12** for a forklift. Just send it to us exactly as it's printed.
+Some truck tyres use other formats, such as 295/80 R22.5. Just send it to us exactly as it's printed.
 
 **Buying for a fleet?** Send everything in one message, with the size and how many you need, for example "11R22.5 x 10, 12R22.5 x 6". We'll prepare one quotation for everything.
 
