@@ -11,7 +11,7 @@ Keeping your forklifts and warehouse vehicles moving should be simple. Send us y
 2. **Message us on WhatsApp.** We confirm the tyres and the details with you directly. If we don't have your size, we'll say so.
 3. **Supply and delivery.** We supply the tyres, and we can arrange delivery across Karachi (charges confirmed on WhatsApp).
 
-**Buying for a company?** Send us the sizes and quantities for your car fleet, trucks or lifters, and we'll prepare a quotation. We already supply multinationals, banks, beverage and logistics companies.
+Send us the sizes and quantities for your forklifts, and we'll prepare one quotation. We already supply multinationals, banks, beverage and logistics companies.
 
 [Request a quotation on WhatsApp](https://wa.me/923174724400?text=Hi%20Baber%20Tyres%20Corporation%20%28ref%20E1%29.%20We%27d%20like%20a%20quotation%20for%20)
 

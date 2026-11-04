@@ -9,9 +9,9 @@ Keeping your company car fleet on the road should be simple. Send us your tyre s
 
 1. **Find your size.** It's printed on the side of your tyre, for example 195/65 R15. List each size with how many you need, such as 195/65 R15 x 12.
 2. **Message us on WhatsApp.** We confirm the tyres and the details with you directly. If we don't have your size, we'll say so.
-3. **Fitting or delivery.** Bring your vehicle to our shop on M.A. Jinnah Road for fitting, or ask us about delivery across Karachi (charges confirmed on WhatsApp).
+3. **Fitting or delivery.** Bring your company cars to our shop on M.A. Jinnah Road for fitting, or ask us about delivery across Karachi (charges confirmed on WhatsApp).
 
-**Buying for a company?** Send us the sizes and quantities for your car fleet, trucks or lifters, and we'll prepare a quotation. We already supply multinationals, banks, beverage and logistics companies.
+We already supply multinationals, banks, beverage and logistics companies.
 
 [Request a quotation on WhatsApp](https://wa.me/923174724400?text=Hi%20Baber%20Tyres%20Corporation%20%28ref%20E1%29.%20We%27d%20like%20a%20quotation%20for%20)
 

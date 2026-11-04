@@ -11,13 +11,13 @@ When you buy tyres for a company car fleet, you should know exactly who your sup
 
 Whichever you choose, we'll tell you which group it belongs to, and we'll confirm the details with you before you buy.
 
-**We can finish the job, too.** At our shop on M.A. Jinnah Road we offer:
+**We can finish the job, too.** For cars and SUVs / 4x4s, at our shop on M.A. Jinnah Road we offer:
 
 - **Tyre fitting**
 - **Computerized wheel alignment**, so your vehicle tracks straight and your tyres wear evenly
 - **Computerized wheel balancing**, to reduce vibration and uneven wear
 
-**For companies:** we supply tyres for car fleets, trucks and lifters to multinationals, banks, beverage and logistics companies. Send us your sizes and quantities, for example 195/65 R15 x 12, for a quotation.
+We already supply multinationals, banks, beverage and logistics companies. Send us the sizes and quantities for your fleet, for example 195/65 R15 x 12, and we'll prepare one quotation.
 
 [Request a quotation on WhatsApp](https://wa.me/923174724400?text=Hi%20Baber%20Tyres%20Corporation%20%28ref%20E3%29.%20We%27d%20like%20a%20quotation%20for%20)
 

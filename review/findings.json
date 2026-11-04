@@ -1,33 +1,4 @@
 {
-  "folder": "campaigns/test-bad",
-  "findings": [
-    {
-      "file": "campaigns/test-bad/emails/01-bad.md",
-      "line": 1,
-      "severity": "high",
-      "problem": "Still not fixed. The subject line uses the banned word \"Cheapest\" and sells on low cost (voice.md section 3).",
-      "fix": "Rewrite it around the campaign, for example: \"Subject: Send us your size for Yokohama tyres\" (under 50 characters)."
-    },
-    {
-      "file": "campaigns/test-bad/emails/01-bad.md",
-      "line": 6,
-      "severity": "high",
-      "problem": "Still not fixed. \"We have the cheapest prices in Karachi\" uses a banned word (cheapest), sells on low cost, and makes a price claim nobody has confirmed (voice.md sections 3 and 4, CLAUDE.md).",
-      "fix": "Use the friendly, guiding car-owner voice instead: \"Looking for new tyres? Send us your tyre size and we'll help you choose the right one.\""
-    },
-    {
-      "file": "campaigns/test-bad/emails/01-bad.md",
-      "line": 10,
-      "severity": "high",
-      "problem": "Still not fixed. Uses the banned word \"warranty\" and makes a promise that sounds like one (\"nothing to worry about\"). voice.md sections 3 and 4 ban both. It also claims this for every tyre, which is not a confirmed fact.",
-      "fix": "Delete the line. If you need a trust line, use confirmed wording only, for example: \"Yokohama is one of the brands we import, so you get original, genuine tyres.\""
-    },
-    {
-      "file": "campaigns/test-bad/emails/01-bad.md",
-      "line": 14,
-      "severity": "high",
-      "problem": "Still not fixed. Links to the website and mentions it, which adds a second link. CLAUDE.md and emails.md rule 3 allow only one link, the WhatsApp button, and ban any website link or mention. The line also sends readers to prices.",
-      "fix": "Delete the whole line. The WhatsApp button on line 12 should be the only link."
-    }
-  ]
+  "folder": "campaigns/send-us-your-size",
+  "findings": []
 }

@@ -11,7 +11,7 @@ Not sure what tyre sizes your company cars use? You don't need to guess. The siz
 - **65**: the height of the side wall, as a percentage of the width.
 - **R15**: a radial tyre for a 15-inch rim.
 
-**Trucks and lifters** use different formats, for example **11R22.5** for a truck or **7.00-12** for a forklift. Just send it to us exactly as it's printed.
+Just send it to us exactly as it's printed.
 
 **Buying for a fleet?** Send everything in one message, with the size and how many you need, for example "195/65 R15 x 12, 185/65 R14 x 8". We'll prepare one quotation for everything.
 
