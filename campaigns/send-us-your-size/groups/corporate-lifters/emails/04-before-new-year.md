@@ -9,7 +9,7 @@ Here's all you need to do:
 
 1. **Find your size** on the side of your tyre, for example 7.00-12.
 2. **Send it to us on WhatsApp.**
-3. **We confirm the details with you**, then fit your tyres at our shop or arrange delivery across Karachi (charges confirmed on WhatsApp).
+3. **We confirm the details with you**, then supply your tyres and arrange delivery across Karachi (charges confirmed on WhatsApp).
 
 **Planning for your company?** Send us your sizes and quantities for cars, trucks or lifters now, and we'll prepare your quotation.
 

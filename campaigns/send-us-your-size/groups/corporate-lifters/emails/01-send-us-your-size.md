@@ -9,7 +9,7 @@ Keeping your forklifts and warehouse vehicles moving should be simple. Send us y
 
 1. **Find your size.** It's printed on the side of your tyre, for example 7.00-12.
 2. **Message us on WhatsApp.** We confirm the tyres and the details with you directly. If we don't have your size, we'll say so.
-3. **Fitting or delivery.** Bring your vehicle to our shop on M.A. Jinnah Road for fitting, or ask us about delivery across Karachi (charges confirmed on WhatsApp).
+3. **Supply and delivery.** We supply the tyres, and we can arrange delivery across Karachi (charges confirmed on WhatsApp).
 
 **Buying for a company?** Send us the sizes and quantities for your car fleet, trucks or lifters, and we'll prepare a quotation. We already supply multinationals, banks, beverage and logistics companies.
 

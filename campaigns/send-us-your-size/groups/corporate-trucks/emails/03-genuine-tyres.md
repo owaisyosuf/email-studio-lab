@@ -1,5 +1,5 @@
 Subject: Genuine tyres, and who you're buying from
-Preview: The brands we import, the brands we deal in, and how we fit them.
+Preview: The brands we import, the brands we deal in, and how we supply them.
 
 Hi {{first_name}},
 
@@ -11,7 +11,7 @@ When you buy tyres for trucks and commercial vehicles, you should know exactly w
 
 Whichever you choose, we'll tell you which group it belongs to, and we'll confirm the details with you before you buy.
 
-**We can fit them, too.** Tyre fitting is available at our shop on M.A. Jinnah Road.
+**Supply and delivery.** We supply the tyres, and we can arrange delivery across Karachi (charges confirmed on WhatsApp).
 
 **For companies:** we supply tyres for car fleets, trucks and lifters to multinationals, banks, beverage and logistics companies. Send us your sizes and quantities, for example 11R22.5 x 10, for a quotation.
 
