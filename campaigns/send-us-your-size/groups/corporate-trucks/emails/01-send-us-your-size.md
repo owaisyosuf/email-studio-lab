@@ -1,5 +1,5 @@
-Subject: Send us your tyre size on WhatsApp
-Preview: Genuine tyres from the brands we import and deal in. Send us your size.
+Subject: Need a tyre quotation? Send us your sizes on WhatsApp
+Preview: Genuine tyres for your vehicles. Send sizes and quantities, and we'll prepare a quotation.
 
 Hi {{first_name}},
 

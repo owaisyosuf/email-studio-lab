@@ -1,5 +1,5 @@
-Subject: Send us your tyre size on WhatsApp
-Preview: Genuine tyres from the brands we import and deal in. Send us your size.
+Subject: Yokohama, Michelin, Dunlop and more: send us your size
+Preview: 4 brands we import, 3 we deal in. Message us on WhatsApp and we'll help you choose.
 
 Hi {{first_name}},
 

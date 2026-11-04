@@ -9,7 +9,7 @@ Notes for the 4 emails in `emails/`. The emails themselves are ready to use. Thi
 
 | # | File | Subject | Purpose | Send | CTA | Who gets it |
 |---|---|---|---|---|---|---|
-| 1 | `01-send-us-your-size.md` | Send us your tyre size on WhatsApp | Introduce WhatsApp ordering and the 3 steps | Mon 7 Dec, 10 AM | Send us your size on WhatsApp | Everyone |
+| 1 | `01-send-us-your-size.md` | Yokohama, Michelin, Dunlop and more: send us your size (corporate: Need a tyre quotation? Send us your sizes on WhatsApp) | Introduce WhatsApp ordering and the 3 steps | Mon 7 Dec, 10 AM | Send us your size on WhatsApp | Everyone |
 | 2 | `02-read-your-size.md` | Where to find your tyre size | Help people who don't know their size | Mon 14 Dec, 10 AM | Send us your size on WhatsApp | Everyone who hasn't messaged us yet |
 | 3 | `03-genuine-tyres.md` | Genuine tyres, and who you're buying from | Build trust: imported vs dealer brands, plus services | Mon 21 Dec, 10 AM | Send us your size on WhatsApp | Everyone who hasn't messaged us yet |
 | 4 | `04-before-new-year.md` | Send us your size before the new year | Last, friendly reminder | Mon 28 Dec, 10 AM | Send us your size on WhatsApp | Only people who haven't messaged us yet |
@@ -58,7 +58,7 @@ Email 4 (Mon 28 Dec)
 
 ## A/B tests
 
-1. **Subject line, email 1:** option A ("Send us your tyre size on WhatsApp") vs option B ("{{first_name}}, what size are your tyres?"). Split the list 50/50 and pick the winner by WhatsApp enquiries, not opens.
+1. **Subject line, email 1:** option A ("Yokohama, Michelin, Dunlop and more: send us your size") vs option B ("{{first_name}}, what size are your tyres?"). Split the car and SUV groups 50/50 and pick the winner by WhatsApp enquiries, not opens.
 2. **Button text, corporate versions:** "Request a quotation on WhatsApp" vs "Send us your fleet's sizes". Split the corporate groups 50/50 and measure quotation requests.
 3. **Send time:** 10 AM vs 5 PM on email 2. Split 50/50 and measure WhatsApp enquiries within 48 hours.
 
