@@ -1,0 +1,81 @@
+{
+  "findings": [
+    {
+      "file": "campaigns/send-us-your-size/emails/01-send-us-your-size.md",
+      "line": 1,
+      "severity": "high",
+      "problem": "Subject 'Yokohama, Michelin, Dunlop and more: send us your size' is 54 characters. The rule allows 50 or fewer.",
+      "fix": "Shorten it, e.g. 'Yokohama, Michelin and more: send us your size' (46) or 'Yokohama, Dunlop and more: send us your size' (44). Update the matching subject in sequence.md too."
+    },
+    {
+      "file": "campaigns/send-us-your-size/groups/car-owners/emails/01-send-us-your-size.md",
+      "line": 1,
+      "severity": "high",
+      "problem": "Subject 'Yokohama, Michelin, Dunlop and more: send us your size' is 54 characters. The rule allows 50 or fewer.",
+      "fix": "Use the same shortened subject as the base Email 1, e.g. 'Yokohama, Michelin and more: send us your size' (46)."
+    },
+    {
+      "file": "campaigns/send-us-your-size/groups/suv-owners/emails/01-send-us-your-size.md",
+      "line": 1,
+      "severity": "high",
+      "problem": "Subject 'Yokohama, Michelin, Dunlop and more: send us your size' is 54 characters. The rule allows 50 or fewer.",
+      "fix": "Use the same shortened subject as the base Email 1, e.g. 'Yokohama, Michelin and more: send us your size' (46)."
+    },
+    {
+      "file": "campaigns/send-us-your-size/groups/corporate-fleet/emails/01-send-us-your-size.md",
+      "line": 1,
+      "severity": "high",
+      "problem": "Subject 'Need a tyre quotation? Send us your sizes on WhatsApp' is 53 characters. The rule allows 50 or fewer.",
+      "fix": "Shorten it, e.g. 'Need a tyre quotation? Send us your sizes' (41) or 'Tyre quotation? Send us your sizes on WhatsApp' (46)."
+    },
+    {
+      "file": "campaigns/send-us-your-size/groups/corporate-trucks/emails/01-send-us-your-size.md",
+      "line": 1,
+      "severity": "high",
+      "problem": "Subject 'Need a tyre quotation? Send us your sizes on WhatsApp' is 53 characters. The rule allows 50 or fewer.",
+      "fix": "Shorten it, e.g. 'Need a tyre quotation? Send us your sizes' (41)."
+    },
+    {
+      "file": "campaigns/send-us-your-size/groups/corporate-lifters/emails/01-send-us-your-size.md",
+      "line": 1,
+      "severity": "high",
+      "problem": "Subject 'Need a tyre quotation? Send us your sizes on WhatsApp' is 53 characters. The rule allows 50 or fewer.",
+      "fix": "Shorten it, e.g. 'Need a tyre quotation? Send us your sizes' (41)."
+    },
+    {
+      "file": "campaigns/send-us-your-size/groups/corporate-trucks/emails/02-read-your-size.md",
+      "line": 8,
+      "severity": "medium",
+      "problem": "The truck version explains how to read a car or SUV tyre (195/65 R15). That doesn't help a truck fleet, and the voice guide says corporate emails should be short and to the point.",
+      "fix": "Replace lines 8-12 with a short note on reading a truck size like 11R22.5, or remove the car/SUV block and keep the 'send it exactly as it's printed' line."
+    },
+    {
+      "file": "campaigns/send-us-your-size/groups/corporate-lifters/emails/02-read-your-size.md",
+      "line": 8,
+      "severity": "medium",
+      "problem": "The forklift version explains how to read a car or SUV tyre (195/65 R15). That doesn't help forklift buyers, and the voice guide says corporate emails should be short and to the point.",
+      "fix": "Replace lines 8-12 with a short note on reading a forklift size like 7.00-12, or remove the car/SUV block and keep the 'send it exactly as it's printed' line."
+    },
+    {
+      "file": "campaigns/send-us-your-size/groups/corporate-fleet/emails/01-send-us-your-size.md",
+      "line": 14,
+      "severity": "low",
+      "problem": "'Buying for a company?' is left over from the base email. This version already goes to company buyers, so the paragraph repeats itself and makes a corporate email longer than it needs to be.",
+      "fix": "Drop the 'Buying for a company?' question and keep one sentence: 'We already supply multinationals, banks, beverage and logistics companies.'"
+    },
+    {
+      "file": "campaigns/send-us-your-size/groups/corporate-trucks/emails/01-send-us-your-size.md",
+      "line": 14,
+      "severity": "low",
+      "problem": "'Buying for a company?' is left over from the base email. This version already goes to company buyers, so the paragraph repeats itself and makes a corporate email longer than it needs to be.",
+      "fix": "Drop the question and keep: 'We already supply multinationals, banks, beverage and logistics companies.'"
+    },
+    {
+      "file": "campaigns/send-us-your-size/groups/corporate-lifters/emails/01-send-us-your-size.md",
+      "line": 14,
+      "severity": "low",
+      "problem": "'Buying for a company?' is left over from the base email. This version already goes to company buyers, so the paragraph repeats itself and makes a corporate email longer than it needs to be.",
+      "fix": "Drop the question and keep: 'We already supply multinationals, banks, beverage and logistics companies.'"
+    }
+  ]
+}
