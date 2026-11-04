@@ -11,11 +11,7 @@ When you buy tyres for forklifts and warehouse vehicles, you should know exactly
 
 Whichever you choose, we'll tell you which group it belongs to, and we'll confirm the details with you before you buy.
 
-**We can finish the job, too.** At our shop on M.A. Jinnah Road we offer:
-
-- **Tyre fitting**
-- **Computerized wheel alignment**, so your vehicle tracks straight and your tyres wear evenly
-- **Computerized wheel balancing**, to reduce vibration and uneven wear
+**We can fit them, too.** Tyre fitting is available at our shop on M.A. Jinnah Road.
 
 **For companies:** we supply tyres for car fleets, trucks and lifters to multinationals, banks, beverage and logistics companies. Send us your sizes and quantities, for example 7.00-12 x 8, for a quotation.
 

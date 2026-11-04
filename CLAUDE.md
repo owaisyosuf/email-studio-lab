@@ -12,7 +12,7 @@ Owais Yousuf confirmed these on 3 November 2026. Emails may state them. Don't ad
 - **Hours:** Monday to Saturday, 10 AM to 7 PM. Sunday closed. Closed on Friday 25 December 2026 (Quaid-e-Azam Day).
 - **Contact:** WhatsApp or call 0317-4724400.
 - **Delivery:** available across Karachi. Charges apply and are confirmed on WhatsApp.
-- **Services at the shop:** tyre fitting, computerized wheel alignment, computerized wheel balancing.
+- **Services at the shop:** tyre fitting, computerized wheel alignment, computerized wheel balancing. Alignment and balancing are not available for trucks / commercial vehicles or lifters / forklifts (confirmed 4 November 2026).
 - **Brands we import:** Yokohama, Rapid, Michelin, Duhow.
 - **Brands we deal in:** Dunlop, General, Armstrong.
 - **Tyre types:** car, SUV / 4x4, truck / commercial, lifter / forklift, off-road.
