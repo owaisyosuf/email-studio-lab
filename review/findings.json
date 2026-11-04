@@ -1,81 +1,33 @@
 {
+  "folder": "campaigns/test-bad",
   "findings": [
     {
-      "file": "campaigns/send-us-your-size/groups/corporate-fleet/emails/01-send-us-your-size.md",
+      "file": "campaigns/test-bad/emails/01-bad.md",
+      "line": 1,
+      "severity": "high",
+      "problem": "Still not fixed. The subject line uses the banned word \"Cheapest\" and sells on low cost (voice.md section 3).",
+      "fix": "Rewrite it around the campaign, for example: \"Subject: Send us your size for Yokohama tyres\" (under 50 characters)."
+    },
+    {
+      "file": "campaigns/test-bad/emails/01-bad.md",
+      "line": 6,
+      "severity": "high",
+      "problem": "Still not fixed. \"We have the cheapest prices in Karachi\" uses a banned word (cheapest), sells on low cost, and makes a price claim nobody has confirmed (voice.md sections 3 and 4, CLAUDE.md).",
+      "fix": "Use the friendly, guiding car-owner voice instead: \"Looking for new tyres? Send us your tyre size and we'll help you choose the right one.\""
+    },
+    {
+      "file": "campaigns/test-bad/emails/01-bad.md",
+      "line": 10,
+      "severity": "high",
+      "problem": "Still not fixed. Uses the banned word \"warranty\" and makes a promise that sounds like one (\"nothing to worry about\"). voice.md sections 3 and 4 ban both. It also claims this for every tyre, which is not a confirmed fact.",
+      "fix": "Delete the line. If you need a trust line, use confirmed wording only, for example: \"Yokohama is one of the brands we import, so you get original, genuine tyres.\""
+    },
+    {
+      "file": "campaigns/test-bad/emails/01-bad.md",
       "line": 14,
-      "severity": "medium",
-      "problem": "Corporate version still carries the base email's 'Buying for a company?' block, asking a corporate reader if they are buying for a company. Line 6 also uses consumer copy ('we'll tell you what we have... no going from shop to shop'). The voice guide says corporate emails should be professional, short and to the point.",
-      "fix": "Delete the 'Buying for a company?' paragraph and keep only the trust line ('We already supply multinationals, banks, beverage and logistics companies.'). Rewrite line 6 around a quotation, for example: 'Send us your fleet's tyre sizes and quantities on WhatsApp, and we'll prepare a quotation.'"
-    },
-    {
-      "file": "campaigns/send-us-your-size/groups/corporate-lifters/emails/01-send-us-your-size.md",
-      "line": 14,
-      "severity": "medium",
-      "problem": "The redundant 'Buying for a company?' block goes to a corporate lifter buyer and lists 'car fleet, trucks or lifters', which does not fit this group. Line 6 uses consumer copy instead of a quotation-led opening.",
-      "fix": "Remove the paragraph and keep a short trust line. Rewrite line 6 to ask for forklift tyre sizes and quantities for a quotation."
-    },
-    {
-      "file": "campaigns/send-us-your-size/groups/corporate-trucks/emails/01-send-us-your-size.md",
-      "line": 14,
-      "severity": "medium",
-      "problem": "The redundant 'Buying for a company?' block goes to a corporate truck buyer and mentions car fleets and lifters, which do not apply here. Line 6 uses consumer copy instead of a quotation-led opening.",
-      "fix": "Remove the paragraph and keep a short trust line. Rewrite line 6 to ask for truck tyre sizes and quantities for a quotation."
-    },
-    {
-      "file": "campaigns/send-us-your-size/groups/corporate-lifters/emails/03-genuine-tyres.md",
-      "line": 17,
-      "severity": "medium",
-      "problem": "Offers computerized wheel alignment 'so your vehicle tracks straight' to forklift buyers. The confirmed services do not say alignment is available for forklifts, so this may promise a service the business has not confirmed for this vehicle type.",
-      "fix": "Confirm with Owais which services apply to forklifts. Until then, keep only 'Tyre fitting' in this version, or say 'ask us on WhatsApp which services suit your forklifts'."
-    },
-    {
-      "file": "campaigns/send-us-your-size/groups/corporate-trucks/emails/03-genuine-tyres.md",
-      "line": 17,
-      "severity": "low",
-      "problem": "Offers computerized wheel alignment and balancing to truck fleets. The confirmed services list does not say these are available for trucks and commercial vehicles.",
-      "fix": "Confirm truck alignment and balancing with Owais, or soften the line to 'ask us on WhatsApp which services suit your trucks'."
-    },
-    {
-      "file": "campaigns/send-us-your-size/groups/corporate-fleet/emails/04-before-new-year.md",
-      "line": 14,
-      "severity": "low",
-      "problem": "Asks a corporate reader 'Planning for your company?' and lists cars, trucks or lifters. The subject and preview (lines 1-2: 'Send us your size', 'Still need tyres?') are written for car owners and don't mention a quotation, unlike corporate E1-E3.",
-      "fix": "Drop the 'Planning for your company?' line and fold the quotation ask into the opening. Use a quotation-focused subject and preview, for example 'Plan your fleet's tyres before the new year' and 'Send sizes and quantities, and we'll prepare your quotation.'"
-    },
-    {
-      "file": "campaigns/send-us-your-size/groups/corporate-lifters/emails/04-before-new-year.md",
-      "line": 14,
-      "severity": "low",
-      "problem": "Asks a corporate lifter buyer 'Planning for your company?' and lists cars, trucks or lifters. The subject and preview are written for car owners and don't mention a quotation.",
-      "fix": "Remove the line, make the opening ask for forklift sizes and quantities for a quotation, and use a quotation-focused subject and preview."
-    },
-    {
-      "file": "campaigns/send-us-your-size/groups/corporate-trucks/emails/04-before-new-year.md",
-      "line": 14,
-      "severity": "low",
-      "problem": "Asks a corporate truck buyer 'Planning for your company?' and lists cars and lifters. The subject and preview are written for car owners and don't mention a quotation.",
-      "fix": "Remove the line, make the opening ask for truck sizes and quantities for a quotation, and use a quotation-focused subject and preview."
-    },
-    {
-      "file": "campaigns/send-us-your-size/groups/corporate-lifters/emails/01-send-us-your-size.md",
-      "line": 12,
-      "severity": "low",
-      "problem": "Step 3 tells forklift buyers to 'Bring your vehicle to our shop on M.A. Jinnah Road for fitting'. Warehouse forklifts are not driven across Karachi, so this step does not fit and makes the email less helpful.",
-      "fix": "Lead with delivery: 'We arrange delivery across Karachi (charges confirmed on WhatsApp), or you can bring the tyres or vehicle to our shop for fitting.'"
-    },
-    {
-      "file": "campaigns/send-us-your-size/groups/car-owners/emails/02-read-your-size.md",
-      "line": 14,
-      "severity": "low",
-      "problem": "The car-owner version still includes the truck and forklift size formats and the fleet quotation paragraph (lines 14-16), which don't apply to this group and make the step-by-step guide longer.",
-      "fix": "Remove the 'Trucks and lifters' and 'Buying for a fleet?' paragraphs from the car-owner version, or replace them with a car example such as 185/65 R14."
-    },
-    {
-      "file": "campaigns/send-us-your-size/groups/suv-owners/emails/02-read-your-size.md",
-      "line": 14,
-      "severity": "low",
-      "problem": "The SUV version still includes the truck and forklift size formats and a fleet example using car and truck sizes (lines 14-16), which don't apply to SUV and 4x4 owners.",
-      "fix": "Remove these two paragraphs, or replace them with an SUV or off-road example."
+      "severity": "high",
+      "problem": "Still not fixed. Links to the website and mentions it, which adds a second link. CLAUDE.md and emails.md rule 3 allow only one link, the WhatsApp button, and ban any website link or mention. The line also sends readers to prices.",
+      "fix": "Delete the whole line. The WhatsApp button on line 12 should be the only link."
     }
   ]
 }

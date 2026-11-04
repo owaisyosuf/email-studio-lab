@@ -5,7 +5,7 @@ Hi {{first_name}},
 
 Looking for new tyres? We have the cheapest prices in Karachi.
 
-Yokohama 195/65 R15 is in stock right now at Rs. 18,500 per tyre.
+Send us your tyre size on WhatsApp, and we'll confirm price and availability for you.
 
 Every tyre comes with a full warranty, so you have nothing to worry about.
 

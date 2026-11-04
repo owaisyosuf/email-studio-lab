@@ -31,9 +31,32 @@ function claudeCommand() {
   return "claude";
 }
 
-const prompt =
-  `Review every email in ${folder} against brand/voice.md and .claude/rules/emails.md. ` +
+// Same folder written two ways ("campaigns/x/" and "campaigns\x") should match.
+const folderKey = folder.replace(/\\/g, "/").replace(/\/+$/, "");
+const findingsPath = "review/findings.json";
+
+// If the last review was for this same folder, pass its findings along so the
+// new review reports only problems that are new or still not fixed.
+let previous = null;
+if (existsSync(findingsPath)) {
+  try {
+    const saved = JSON.parse(readFileSync(findingsPath, "utf8"));
+    if (saved.folder === folderKey && Array.isArray(saved.findings)) previous = saved.findings;
+  } catch {
+    // An unreadable old file just means a full review.
+  }
+}
+
+let prompt =
+  `Review every email in ${folderKey} against brand/voice.md and .claude/rules/emails.md. ` +
   `Report only real problems.`;
+
+if (previous) {
+  prompt +=
+    `\n\nThese are findings from the last review. Report only problems that are new or still not fixed. ` +
+    `Don't repeat ones that have been fixed.\n` +
+    JSON.stringify(previous, null, 2);
+}
 
 const result = spawnSync(
   claudeCommand(),
@@ -75,13 +98,17 @@ if (!structured || !Array.isArray(structured.findings)) {
 }
 
 mkdirSync("review", { recursive: true });
-writeFileSync("review/findings.json", JSON.stringify(structured, null, 2) + "\n");
+writeFileSync(
+  findingsPath,
+  JSON.stringify({ folder: folderKey, findings: structured.findings }, null, 2) + "\n"
+);
 
 const count = { high: 0, medium: 0, low: 0 };
 for (const f of structured.findings) count[f.severity] = (count[f.severity] ?? 0) + 1;
 
 console.log(
-  `${folder}: ${structured.findings.length} finding(s) ` +
+  `${folderKey}: ${structured.findings.length} finding(s) ` +
+  (previous ? `[re-review, ${previous.length} earlier] ` : "") +
   `(high ${count.high}, medium ${count.medium}, low ${count.low}). Saved to review/findings.json.`
 );
 
